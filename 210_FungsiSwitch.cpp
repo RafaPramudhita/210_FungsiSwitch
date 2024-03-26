@@ -11,7 +11,3 @@ void inputData()
     cin >> bilangan2;
 }
 
-
-
-
-
